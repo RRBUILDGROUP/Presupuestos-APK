@@ -4,9 +4,9 @@ Aplicación para el celular. Acá está sólo el archivo para instalarla.
 
 ## Descargar
 
-**[→ Descargar la última versión](../../releases/latest)**
+### [→ DESCARGAR LA APP](https://github.com/RRBUILDGROUP/Presupuestos-APK/releases/latest/download/app-arm64-v8a-release.apk)
 
-Bajá el archivo `app-release.apk`.
+Ese botón baja el archivo directamente, sin pasar por ninguna otra pantalla.
 
 ## Instalar
 
