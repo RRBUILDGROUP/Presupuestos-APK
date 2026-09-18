@@ -14,9 +14,9 @@ Son **dos programas distintos** y hacen falta los dos.
 
 ## 1 · COMPUTADORA — Windows
 
-### [⬇ DESCARGAR PARA LA COMPUTADORA](https://github.com/RRBUILDGROUP/Presupuestos-APK/raw/main/Presupuestos-COMPUTADORA-1.0.2.exe)
+### [⬇ DESCARGAR PARA LA COMPUTADORA](https://github.com/RRBUILDGROUP/Presupuestos-APK/releases/latest/download/Presupuestos-COMPUTADORA.exe)
 
-`Presupuestos-COMPUTADORA-1.0.2.exe` — 15 MB
+`Presupuestos-COMPUTADORA.exe` — 15 MB
 
 Al abrirlo:
 
